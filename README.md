@@ -1,7 +1,7 @@
 
 #个人学习笔记
 
-基础算法：《数据结构》、《编程之美》、《剑指offer》
+基础算法：《数据结构》、《数学之美》（没看完）、《剑指offer》（没看完）
 
 语言：《深入理解java虚拟机》、《易学C++》
 
@@ -9,8 +9,10 @@
 
 神经网络：《Neural Networks and Learning Machines》Third Edition. Simon Haykin McMaster
 
-入门视频：机器学习入门：Andrew NG《斯坦福机器学习视频》、UDACITY《深度学习纳米课程》、《台大机器学习》、小象学院《机器学习》
-          深度学习入门：、CS231n
+入门视频：
+机器学习入门：Andrew NG《斯坦福机器学习视频》、《台大机器学习》（没看完）、小象学院《机器学习》
+
+深度学习入门：UDACITY《深度学习纳米课程》、CS231n
           
 梯度优化算法：http://sebastianruder.com/optimizing-gradient-descent/index.html
 
