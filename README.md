@@ -18,6 +18,8 @@
           
 梯度优化算法：http://sebastianruder.com/optimizing-gradient-descent/index.html
 
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 剑指offer：https://www.nowcoder.com/ta/coding-interviews?query=&asc=true&order=&page=1
 
 Word2vec；https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html
