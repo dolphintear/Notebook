@@ -6,6 +6,8 @@
 
 常用算法：《统计学习方法》、《西瓜书》
 
+神经网络：《Neural Networks and Learning Machines》Third Edition. Simon Haykin McMaster
+
 入门视频：机器学习入门：Andrew NG《斯坦福机器学习视频》、UDACITY《深度学习纳米课程》、《台大机器学习》、小象学院《机器学习》
           深度学习入门：、CS231n
           
@@ -26,8 +28,6 @@ http://blog.csdn.net/lho2010/article/details/42927287
 Gbdt：http://blog.csdn.net/u012102306/article/details/51514390、小象学院-机器学习-提升。
 
 梯度消失和爆炸问题：http://ziyubiti.github.io/2016/11/06/gradvanish/
-
-视觉：http://blog.csdn.net/NNNNNNNNNNNNY/article/details/67644257
 
 机器学习算法优缺点：https://zhuanlan.zhihu.com/p/27160995
 
