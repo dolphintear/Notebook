@@ -14,7 +14,7 @@
 入门视频：
 机器学习入门：Andrew NG《斯坦福机器学习视频》、《台大机器学习》（没看完）、小象学院《机器学习》
 
-深度学习入门：UDACITY《深度学习纳米课程》、CS231n
+深度学习入门：UDACITY《Deep Learning Nanodegree Foundation》、斯坦福课程-CS231n
           
 梯度优化算法：http://sebastianruder.com/optimizing-gradient-descent/index.html
 
